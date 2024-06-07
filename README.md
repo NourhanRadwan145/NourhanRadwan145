@@ -3,8 +3,9 @@
 
 I'm Nourhan Radwan, a passionate Full-Stack developer from Egypt.
 
-![Coding](https://cdn3.iconfinder.com/data/icons/kids-learn-coding-design-sticker/1500/Girl_Coding__Designing_With_PC-512.png)
-
+<div style="text-align:center;">
+  <img src="https://cdn3.iconfinder.com/data/icons/kids-learn-coding-design-sticker/1500/Girl_Coding__Designing_With_PC-512.png" alt="Coding" width="200" />
+</div>
 🌐 Connect with me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](www.linkedin.com/in/nourhan-radwan-083516287)
 - [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://x.com/Nourhanshaheen9?t=n0BTEUaHT6dZUKAJyLDD4w&s=09)
