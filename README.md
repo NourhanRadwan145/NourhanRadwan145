@@ -6,11 +6,14 @@
   <img src="https://user-images.githubusercontent.com/63107268/235033377-31b23c1d-04b6-42bf-865a-6b6bda4f77ae.gif" width="600" height="500">
 <div>
 
-<h3 align="left">
+<h5 align="left">
 🌟 My journey in web development has been an exciting one, filled with learning opportunities and meaningful projects. From building interactive websites with HTML, CSS and Javascrit to diving into all frameworks, I'm always eager to explore new domains and expand my skill set.
+</h5>
 
-🔭 Outside of coding, you'll often find me immersed in books, exploring the latest tech trends, or indulging my curiosity in any Knowledge. 😊
-</h3>
+ <h5 align="left">
+ 🔭 Outside of coding, you'll often find me immersed in books, exploring the latest tech trends, or indulging my curiosity in any Knowledge. 😊
+ </h5>
+
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
